@@ -72,8 +72,8 @@ def fibonacci(n):
 
     return result
 
-#run the following if this is running as the main program
-#if this code is being imported into another program...don't do the following
+#this code will run the if this program is running as the MAIN program
+#if this code is being imported into another program...python won't run the following
 if __name__ == "__main__":
 
     #continuously print the menu
