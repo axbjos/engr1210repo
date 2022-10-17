@@ -1,3 +1,21 @@
+##########################################
+#
+# Joe's Useful Functions
+#
+# Author: Joe Axberg
+# 
+# This program shows how to build a Python "module" of functions of your own
+# and how to use the module both by itself and if imported into a different piece of code
+#
+# Either run this program by itself OR
+# Use these two programs in the same directory to show how to import
+# the functions in various ways
+#
+# program_that_imports_joes_functions_version1.py
+# program_that imports_joes_functions_version2.py
+#
+##########################################
+
 #factorial using recursion
 def factorialr(n):
     
